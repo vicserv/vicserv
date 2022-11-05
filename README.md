@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, Soy Vidi Serv</h1>
-<h3 align="center">Electrónico y FrontEnd JR</h3>
+<h3 align="center">Electrónico y FullStack JR</h3>
 
 <h3 align="left">Linkedin:</h3>
 <p align="left">
